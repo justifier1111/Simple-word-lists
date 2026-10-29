@@ -1,5 +1,5 @@
-# An english, number and special charater lists for bruteforcing.
+# An English, number and special character lists.
 
-An english, number and special charater lists for bruteforcing.
+An English, number and special character lists.
 
-dwyl/english-words list modified for brute forcing by making upper and lower case variants.
+dwyl/english-words list by making upper and lower case variants.
